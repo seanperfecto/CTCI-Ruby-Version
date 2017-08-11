@@ -13,5 +13,5 @@ def is_unique?(str)
   true
 end
 
-# O(n) space / O(n) time
+# O(n) space / O(n) time (n being length of string)
 # No addiontal data structure: Use bit victors (cost time though)
