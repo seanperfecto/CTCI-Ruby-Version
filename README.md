@@ -11,6 +11,9 @@ better Ruby solutions out there.
 ## Table Of Contents
 
 [Chapter One: Arrays and Strings](https://github.com/seanperfecto/CTCI-Ruby-Version/tree/master/Chapter_One)
+
 [Chapter Two: Linked Lists](https://github.com/seanperfecto/CTCI-Ruby-Version/tree/master/Chapter_Two)
+
 [Chapter Three: Stacks and Queues](https://github.com/seanperfecto/CTCI-Ruby-Version/tree/master/Chapter_Three)
+
 [Chapter Four: Trees and Graphs](https://github.com/seanperfecto/CTCI-Ruby-Version/tree/master/Chapter_Four)

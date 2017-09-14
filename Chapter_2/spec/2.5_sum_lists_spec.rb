@@ -21,7 +21,7 @@ describe '#sum_lists' do
     list3
   end
 
-  it 'Should return return 708' do
+  it 'Should return return sum of two lists' do
     expect(get_vals(sum_lists(list1, list2))).to eq(get_vals(list3))
   end
 end
